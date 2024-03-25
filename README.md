@@ -17,10 +17,10 @@ As part of the ALX Software Engineer program, this team project marks the initia
 The console is a Unix shell-like command line user interface provided by the python CmdModule. It prints a prompt and waits for the user for input, for our project we used (hbnb).
 
 | Command                               | Example         |
-| ------------------------------------- |:---------------:|
+| ------------------------------------- |---------------|
 | Display commands help                 | (hbnb) help     |
 | Create object (prints its id)         | (hbnb) create   |
-| Destroy object| are neat              | (hbnb) destroy or (hbnb) .destroy() |
+| Destroy object                        | (hbnb) destroy or (hbnb) .destroy() |
 | Show object                           | (hbnb) show or (hbnb) .show() |
 | Show "all" objects or instances class | (hbnb) all or (hbnb) all |
 | Run console                           | ./console.py    |
